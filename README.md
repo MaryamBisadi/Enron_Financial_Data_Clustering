@@ -25,4 +25,4 @@ The following plots show these two clustering technique results for same number 
 ### 6. KMean Clustering with K = 14
 ![kmean_14](https://user-images.githubusercontent.com/39537957/41582662-13a2430c-7357-11e8-9ee3-514c0a7957fb.png)
 
-Although clustering with these two techniques for Enrun financial data are not that much different, generally affinity propagation works better.
+Although clustering with these two techniques for Enron financial data are not that much different, generally affinity propagation works better.
